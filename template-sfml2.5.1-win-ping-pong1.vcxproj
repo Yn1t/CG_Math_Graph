@@ -40,6 +40,7 @@
     <ProjectGuid>{63211f49-8c0f-40d8-9d77-cb161c23c687}</ProjectGuid>
     <RootNamespace>template_sfml2_5_1_win_ping_pong1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <ProjectName>MathGraph_Laba1_sfml</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug Static|Win32'" Label="Configuration">
